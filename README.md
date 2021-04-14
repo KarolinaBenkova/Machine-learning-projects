@@ -33,6 +33,3 @@ In this short project, both supervised and unsupervised learning techniques were
 In the supervised learning part of this project, the goal is to predict an output, i.e. classify a handwritten digit, by learning the digits in the images with their correct labels, which is done by using the **k-Nearest Neighbours** method. Here we also tweak the parameters of the classifier and use the classification report with the confusion matrix.
 
 Clustering as an unsupervised learning method consists in finding patterns among the data and grouping them into clusters. This was implemented using the **K-Means** method. Besides having 10 clusters, we also experiment with larger and smaller number of clusters.
-
-
-- 
